@@ -1,0 +1,22 @@
+D:\MetaverseDevelope\Galaxy\Intermediate\Build\Win64\UE4Editor\Development\Galaxy\Definitions.Galaxy.h
+D:\MetaverseDevelope\Galaxy\Source\Galaxy\GalaxyGameMode.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\MetaverseDevelope\Galaxy\Intermediate\Build\Win64\UE4Editor\Inc\Galaxy\GalaxyGameMode.generated.h
+D:\MetaverseDevelope\Galaxy\Source\Galaxy\GalaxyHUD.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+D:\MetaverseDevelope\Galaxy\Intermediate\Build\Win64\UE4Editor\Inc\Galaxy\GalaxyHUD.generated.h
+D:\MetaverseDevelope\Galaxy\Source\Galaxy\GalaxyCharacter.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\MetaverseDevelope\Galaxy\Intermediate\Build\Win64\UE4Editor\Inc\Galaxy\GalaxyCharacter.generated.h

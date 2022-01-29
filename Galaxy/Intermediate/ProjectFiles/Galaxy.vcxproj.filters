@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Galaxy.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2ED068C6-E581-4FC6-8119-FEFB1DB34160}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Galaxy.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GalaxyEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{BFC999EE-F102-45D1-89A1-4A7309D6AE14}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Galaxy">
+      <UniqueIdentifier>{C07CAB36-D037-4E39-B302-570CC8E175E0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Galaxy\Galaxy.Build.cs">
+      <Filter>Source\Galaxy</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Galaxy\Galaxy.cpp">
+      <Filter>Source\Galaxy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaxy\Galaxy.h">
+      <Filter>Source\Galaxy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaxy\GalaxyCharacter.cpp">
+      <Filter>Source\Galaxy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaxy\GalaxyCharacter.h">
+      <Filter>Source\Galaxy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaxy\GalaxyGameMode.cpp">
+      <Filter>Source\Galaxy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaxy\GalaxyGameMode.h">
+      <Filter>Source\Galaxy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaxy\GalaxyHUD.cpp">
+      <Filter>Source\Galaxy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaxy\GalaxyHUD.h">
+      <Filter>Source\Galaxy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaxy\GalaxyProjectile.cpp">
+      <Filter>Source\Galaxy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaxy\GalaxyProjectile.h">
+      <Filter>Source\Galaxy</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\MetaverseDevelope\\Galaxy\\Source\\Galaxy\\Galaxy.Build.cs",
+		"D:\\MetaverseDevelope\\Galaxy\\Source\\Galaxy.Target.cs",
+		"D:\\MetaverseDevelope\\Galaxy\\Source\\GalaxyEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Galaxy",
+			"Path": "D:\\MetaverseDevelope\\Galaxy\\Source\\Galaxy.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GalaxyEditor",
+			"Path": "D:\\MetaverseDevelope\\Galaxy\\Source\\GalaxyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

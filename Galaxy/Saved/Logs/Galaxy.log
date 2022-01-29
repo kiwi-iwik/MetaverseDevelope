@@ -1,0 +1,1172 @@
+﻿Log file open, 01/29/22 21:59:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Galaxy
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.536983
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=KIWILEEEEEEEEE -epicuserid=9d665e70ccb54160b17191be99e19a78 -epiclocale=zh-Hant -epicsandboxid=ue
+LogInit: Base Directory: D:/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.01.29-13.59.15:044][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.01.29-13.59.15:044][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.01.29-13.59.15:044][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Engine.ini]
+[2022.01.29-13.59.15:044][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.01.29-13.59.15:044][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Engine.ini]
+[2022.01.29-13.59.15:044][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Engine.ini]
+[2022.01.29-13.59.15:044][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.01.29-13.59.15:044][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.01.29-13.59.15:044][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.01.29-13.59.15:044][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.01.29-13.59.15:044][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.01.29-13.59.15:044][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.01.29-13.59.15:044][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.01.29-13.59.15:044][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.01.29-13.59.15:044][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.01.29-13.59.15:044][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.01.29-13.59.15:044][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.01.29-13.59.15:044][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.01.29-13.59.15:044][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.01.29-13.59.15:044][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.01.29-13.59.15:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Engine.ini]
+[2022.01.29-13.59.15:045][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.01.29-13.59.15:045][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.01.29-13.59.15:045][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.01.29-13.59.15:045][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.01.29-13.59.15:045][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.01.29-13.59.15:045][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.01.29-13.59.15:045][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.01.29-13.59.15:045][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.01.29-13.59.15:045][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.01.29-13.59.15:045][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.01.29-13.59.15:045][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.01.29-13.59.15:045][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.01.29-13.59.15:045][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.01.29-13.59.15:045][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.01.29-13.59.15:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Engine.ini]
+[2022.01.29-13.59.15:045][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Engine.ini]
+[2022.01.29-13.59.15:052][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.29-13.59.15:052][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.29-13.59.15:053][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.29-13.59.15:054][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.29-13.59.15:054][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.01.29-13.59.15:054][  0]LogHAL: Display: Platform has ~ 12 GB [12746723328 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.01.29-13.59.15:054][  0]LogInit: Going up to parent DeviceProfile []
+[2022.01.29-13.59.15:054][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.29-13.59.15:054][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.29-13.59.15:055][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.01.29-13.59.15:056][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.01.29-13.59.15:056][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.01.29-13.59.15:056][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.01.29-13.59.15:056][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Engine.ini]
+[2022.01.29-13.59.15:056][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/MetaverseDevelope/Galaxy/Saved/Config/Windows/Editor.ini]
+[2022.01.29-13.59.15:056][  0]LogInit: Computer: DESKTOP-E7CV6GU
+[2022.01.29-13.59.15:056][  0]LogInit: User: USER
+[2022.01.29-13.59.15:056][  0]LogInit: CPU Page size=4096, Cores=2
+[2022.01.29-13.59.15:056][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.01.29-13.59.15:056][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2022.01.29-13.59.15:056][  0]LogMemory: Platform Memory Stats for Windows
+[2022.01.29-13.59.15:056][  0]LogMemory: Process Physical Memory: 141.59 MB used, 141.59 MB peak
+[2022.01.29-13.59.15:056][  0]LogMemory: Process Virtual Memory: 116.92 MB used, 116.92 MB peak
+[2022.01.29-13.59.15:056][  0]LogMemory: Physical Memory: 8943.28 MB used,  3212.94 MB free, 12156.22 MB total
+[2022.01.29-13.59.15:056][  0]LogMemory: Virtual Memory: 134214016.00 MB used,  3709.50 MB free, 134217728.00 MB total
+[2022.01.29-13.59.15:064][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.01.29-13.59.15:146][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.01.29-13.59.15:149][  0]LogInit: Using OS detected language (zh-TW).
+[2022.01.29-13.59.15:149][  0]LogInit: Using OS detected locale (zh-TW).
+[2022.01.29-13.59.15:154][  0]LogTextLocalizationManager: No localization for 'zh-TW' exists, so 'en' will be used for the language.
+[2022.01.29-13.59.15:535][  0]LogInit: Setting process to per monitor DPI aware
+[2022.01.29-13.59.15:564][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.29-13.59.15:603][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.01.29-13.59.15:603][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.01.29-13.59.16:193][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.01.29-13.59.16:543][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.29-13.59.16:543][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.01.29-13.59.16:543][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.01.29-13.59.16:543][  0]LogD3D11RHI: D3D11 adapters:
+[2022.01.29-13.59.16:862][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
+[2022.01.29-13.59.16:862][  0]LogD3D11RHI:       2010/0/6078 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.01.29-13.59.16:909][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2022.01.29-13.59.16:909][  0]LogD3D11RHI:       128/0/6078 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.01.29-13.59.16:916][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.01.29-13.59.16:916][  0]LogD3D11RHI:       0/0/6078 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.01.29-13.59.16:916][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.01.29-13.59.16:916][  0]LogD3D11RHI:     Description : NVIDIA GeForce 940MX
+[2022.01.29-13.59.16:916][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.01.29-13.59.16:917][  0]LogD3D11RHI:     DeviceId    : 179c
+[2022.01.29-13.59.16:917][  0]LogD3D11RHI:     SubSysId    : 10941025
+[2022.01.29-13.59.16:917][  0]LogD3D11RHI:     Revision    : 00a2
+[2022.01.29-13.59.16:917][  0]LogD3D11RHI:     DedicatedVideoMemory : 2107703296 bytes
+[2022.01.29-13.59.16:917][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.29-13.59.16:917][  0]LogD3D11RHI:     SharedSystemMemory : 6373361664 bytes
+[2022.01.29-13.59.16:917][  0]LogD3D11RHI:     AdapterLuid : 0 65586
+[2022.01.29-13.59.16:929][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.01.29-13.59.16:929][  0]LogD3D11RHI:     GPU DeviceId: 0x179c (for the marketing name, search the web for "GPU Device Id")
+[2022.01.29-13.59.16:929][  0]LogWindows: EnumDisplayDevices:
+[2022.01.29-13.59.16:930][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2022.01.29-13.59.16:930][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2022.01.29-13.59.16:930][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2022.01.29-13.59.16:930][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2022.01.29-13.59.16:930][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
+[2022.01.29-13.59.16:931][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.01.29-13.59.16:931][  0]LogD3D11RHI:      Driver Date: Unknown
+[2022.01.29-13.59.16:931][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2022.01.29-13.59.16:931][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.01.29-13.59.16:931][  0]LogD3D11RHI:     Description : NVIDIA GeForce 940MX
+[2022.01.29-13.59.16:931][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.01.29-13.59.16:931][  0]LogD3D11RHI:     DeviceId    : 179c
+[2022.01.29-13.59.16:931][  0]LogD3D11RHI:     SubSysId    : 10941025
+[2022.01.29-13.59.16:931][  0]LogD3D11RHI:     Revision    : 00a2
+[2022.01.29-13.59.16:931][  0]LogD3D11RHI:     DedicatedVideoMemory : 2107703296 bytes
+[2022.01.29-13.59.16:931][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.29-13.59.16:931][  0]LogD3D11RHI:     SharedSystemMemory : 6373361664 bytes
+[2022.01.29-13.59.16:931][  0]LogD3D11RHI:     AdapterLuid : 0 65586
+[2022.01.29-13.59.17:592][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.01.29-13.59.17:592][  0]LogD3D11RHI: Async texture creation enabled
+[2022.01.29-13.59.17:614][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.01.29-13.59.17:692][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.01.29-13.59.18:291][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.01.29-13.59.18:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.01.29-13.59.18:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.01.29-13.59.18:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.01.29-13.59.18:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.01.29-13.59.18:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.01.29-13.59.18:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.01.29-13.59.18:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.01.29-13.59.18:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.01.29-13.59.18:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.01.29-13.59.18:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.01.29-13.59.18:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.01.29-13.59.18:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.01.29-13.59.18:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.01.29-13.59.18:384][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.01.29-13.59.18:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.01.29-13.59.18:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.01.29-13.59.18:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.01.29-13.59.18:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.01.29-13.59.18:429][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.01.29-13.59.18:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.01.29-13.59.18:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.01.29-13.59.18:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.01.29-13.59.18:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.01.29-13.59.18:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.01.29-13.59.18:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.01.29-13.59.18:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.01.29-13.59.18:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.01.29-13.59.18:535][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.01.29-13.59.18:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.01.29-13.59.18:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.01.29-13.59.18:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.01.29-13.59.18:558][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.01.29-13.59.18:577][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.01.29-13.59.18:646][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.01.29-13.59.18:708][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.01.29-13.59.18:708][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (../../../../../MetaverseDevelope/Galaxy/Intermediate/Shaders/WorkingDirectory/13020/).
+[2022.01.29-13.59.18:709][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/USER/AppData/Local/Temp/UnrealShaderWorkingDir/B66768D547E1FFB8DD81AC81CEF46348/'.
+[2022.01.29-13.59.18:709][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.01.29-13.59.18:709][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.01.29-13.59.18:709][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.01.29-13.59.20:208][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.01.29-13.59.20:499][  0]LogDerivedDataCache: Loaded boot cache 0.29s 101MB C:/Users/USER/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.29-13.59.20:499][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/USER/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.01.29-13.59.20:499][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../MetaverseDevelope/Galaxy/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.01.29-13.59.20:499][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.01.29-13.59.20:499][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../MetaverseDevelope/Galaxy/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.29-13.59.20:499][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.01.29-13.59.20:529][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.29-13.59.20:529][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.29-13.59.20:529][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.01.29-13.59.20:576][  0]LogDerivedDataCache: Speed tests for C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2022.01.29-13.59.20:576][  0]LogDerivedDataCache: Display: Performance to C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=41.80MBs, RandomWriteSpeed=36.53MBs. Assigned SpeedClass 'Local'
+[2022.01.29-13.59.20:577][  0]LogDerivedDataCache: Using Local data cache path C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.01.29-13.59.20:577][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.01.29-13.59.20:577][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.01.29-13.59.20:677][  0]LogSlate: Using FreeType 2.10.0
+[2022.01.29-13.59.20:679][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.01.29-13.59.20:788][  0]LogAssetRegistry: FAssetRegistry took 0.0053 seconds to start up
+[2022.01.29-13.59.21:400][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.29-13.59.21:400][  0]LogInit: Active device profile: [000001B77A7ECE00][000001B76DC52900 49] Windows
+[2022.01.29-13.59.21:401][  0]LogInit: Profiles: [000001B77A7ECE00][000001B76DC52900 49] Windows, [000001B77A7A6500][000001B779F7EA40 49] WindowsNoEditor, [000001B77A7EDD00][000001B779F82B80 49] WindowsServer, [000001B77A7A7300][000001B779F8AD00 49] WindowsClient, [000001B77A7EEA00][000001B779F8EE80 49] IOS, [000001B77A7A7900][000001B779F93000 49] iPadAir, [000001B77A7ED500][000001B779F97180 49] iPadAir2, [000001B77A761300][000001B779F9F440 49] IPadPro, [000001B77A761400][000001B779F9B480 49] iPadAir3, [000001B77A7A4C00][000001B779FA3600 49] iPadAir4, [000001B77A762000][000001B779FA7780 49] iPadMini2, [000001B77A7A7100][000001B779FAB900 49] iPadMini3, [000001B77A762A00][000001B779FAFA80 49] iPadMini4, [000001B77A7A4F00][000001B779FB3C00 49] iPadMini5, [000001B77A75CB00][000001B779FBA340 49] iPhone6, [000001B77A75CC00][000001B779FB6380 49] iPodTouch6, [000001B77A7EE900][000001B779FC2640 49] iPhone7, [000001B77A7ECF00][000001B779FBE680 49] iPodTouch7, [000001B77A761200][000001B779FC6800 49] iPhone5S, [000001B77A7EEC00][000001B779F86940 49] iPhone6Plus, [000001B77A763D00][000001B779FCAA80 49] iPhone6S, [000001B77A760100][000001B779FCEBC0 49] iPhone6SPlus, [000001B77A75FF00][000001B779FD2D00 49] iPhone7Plus, [000001B77A762200][000001B779FDAE80 49] iPhoneSE, [000001B77A75E800][000001B779FDF000 49] iPhone8, [000001B77A762500][000001B779FE3180 49] iPhone8Plus, [000001B77A75F900][000001B779FE7300 49] iPhoneX, [000001B77A762400][000001B779FEB480 49] iPhoneXS, [000001B77A75CE00][000001B779FEF600 49] iPhoneXSMax, [000001B77A7ED800][000001B779FF3780 49] iPhoneXR, [000001B77A75D600][000001B779FF7900 49] iPhone11, [000001B77A7EDA00][000001B779FFBA80 49] iPhone11Pro, [000001B77A75D800][000001B779FFFC00 49] iPhone11ProMax, [000001B77A7ED100][000001B77A002200 49] iPhoneSE2, [000001B77A75FA00][000001B77A006380 49] iPhone12Mini, [000001B77A7ECB00][000001B77A00A500 49] iPhone12, [000001B77A75DC00][000001B77A00E680 49] iPhone12Pro, [000001B77A7ED000][000001B77A012800 49] iPhone12ProMax, [000001B77A75F600][000001B77A016980 49] iPadPro105, [000001B77A7EF800][000001B77A01AB00 49] iPadPro129, [000001B77A75C300][000001B779FD6C40 49] iPadPro97, [000001B77A7ED400][000001B77B030D80 49] iPadPro2_129, [000001B77A75D300][000001B77B034EC0 49] iPad5, [000001B77A7EFA00][000001B77B03D040 49] iPad6, [000001B77A75FC00][000001B77B0411C0 49] iPad7, [000001B77A7EF200][000001B77B045340 49] iPad8, [000001B77A75F200][000001B77B0494C0 49] iPadPro11, [000001B77A7EEF00][000001B77B04D640 49] iPadPro2_11, [000001B77A75E200][000001B77B0517C0 49] iPadPro3_129, [000001B77A7EC700][000001B77B055940 49] iPadPro4_129, [000001B77A75D000][000001B77B059AC0 49] AppleTV, [000001B77A7EF100][000001B77B05C0C0 49] AppleTV4K, [000001B77A75E100][000001B77B060240 49] TVOS, [000001B77A7EE100][000001B77B0643C0 49] Mac, [000001B77A75F500][000001B77B068540 49] MacClient, [000001B77A7EFB00][000001B77B06C6C0 49] MacNoEditor, [000001B77A75CD00][000001B77B070840 49] MacServer, [000001B77A7EEE00][000001B77B0749C0 49] Linux, [000001B77A75DF00][000001B77B078B40 49] LinuxAArch64, [000001B77A7ECA00][000001B77B07CCC0 49] LinuxNoEditor, [000001B77A75F000][000001B77B038E00 49] LinuxAArch64NoEditor, [000001B77A7EF300][000001B77B080F40 49] LinuxClient, [000001B77A75E700][000001B77B085080 49] LinuxAArch64Client, [000001B77A7EDB00][000001B77B0891C0 49] LinuxServer, [000001B77A75C400][000001B77B091340 49] LinuxAArch64Server, [000001B77A7EDC00][000001B77B0954C0 49] Android, [000001B77A75D400][000001B77B099640 49] Android_Low, [000001B77A7EDE00][000001B77B09D7C0 49] Android_Mid, [000001B77A75E900][000001B77B0A1940 49] Android_High, [000001B77A7EE000][000001B77B0A5AC0 49] Android_Default, [000001B77A75F100][000001B77B0A80C0 49] Android_Adreno4xx, [000001B77A7EE200][000001B77B0AC240 49] Android_Adreno5xx_Low, [000001B77A75FD00][000001B77B0B03C0 49] Android_Adreno5xx, [000001B77A7EC200][000001B77B0B4540 49] Android_Adreno6xx, [000001B77A75D700][000001B77B0B86C0 49] Android_Adreno6xx_Vulkan, [000001B77A7EE700][000001B77B0BC840 49] Android_Mali_T6xx, [000001B77A761700][000001B77B0C09C0 49] Android_Mali_T7xx, [000001B77A7A7200][000001B77B0C4B40 49] Android_Mali_T8xx, [000001B77A763E00][000001B77B0C8CC0 49] Android_Mali_G71, [000001B77A7A7D00][000001B77B0CCE40 49] Android_Mali_G72, [000001B77A763A00][000001B77B08CF80 49] Android_Mali_G72_Vulkan, [000001B77A7A7A00][000001B77B0D10C0 49] Android_Mali_G76, [000001B77A761B00][000001B77B0D5200 49] Android_Mali_G76_Vulkan, [000001B77A7A6400][000001B77B0D9340 49] Android_Mali_G77, [000001B77A763600][000001B77B0E14C0 49] Android_Mali_G77_Vulkan, [000001B77A7A6100][000001B77B0E5640 49] Android_Mali_G78, [000001B77A761000][000001B77B0E97C0 49] Android_Mali_G78_Vulkan, [000001B77A7A4500][000001B77B0ED940 49] Android_Mali_G710, [000001B77A761600][000001B77B0F1AC0 49] Android_Mali_G710_Vulkan, [000001B77A7A6600][000001B77B0F40C0 49] Android_Vulkan_SM5, [000001B77A761A00][000001B77B0F8240 49] Android_PowerVR_G6xxx, [000001B77A7A7000][000001B77B0FC3C0 49] Android_PowerVR_GT7xxx, [000001B77A763300][000001B77B100540 49] Android_PowerVR_GE8xxx, [000001B77A7A5100][000001B77B1046C0 49] Android_PowerVR_GM9xxx, [000001B77A761F00][000001B77B108840 49] Android_PowerVR_GM9xxx_Vulkan, [000001B77A7A5700][000001B77B10C9C0 49] Android_TegraK1, [000001B77A763B00][000001B77B110B40 49] Android_Unknown_Vulkan, [000001B77A7A4D00][000001B77B114CC0 49] Lumin, [000001B77A760600][000001B77B118E40 49] Lumin_Desktop, [000001B77A75F300][000001B77B11CFC0 49] HoloLens, 
+[2022.01.29-13.59.21:713][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.01.29-13.59.21:713][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.01.29-13.59.21:713][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.01.29-13.59.21:713][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.01.29-13.59.21:713][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.01.29-13.59.21:756][  0]LogNetVersion: Galaxy 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3923277939)
+[2022.01.29-13.59.23:779][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.01.29-13.59.23:915][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.01.29-13.59.23:926][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.01.29-13.59.23:926][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.01.29-13.59.23:926][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.01.29-13.59.25:012][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: B714C6084DDB070D8769ED8B45E59A28 | Instance: E19A976F4AC867FCBE825AAC084B891F (DESKTOP-E7CV6GU-13020).
+[2022.01.29-13.59.25:287][  0]LogPython: Using Python 3.7.7
+[2022.01.29-13.59.26:381][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.01.29-13.59.26:404][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.01.29-13.59.27:005][  0]SourceControl: Source control is disabled
+[2022.01.29-13.59.27:005][  0]SourceControl: Source control is disabled
+[2022.01.29-13.59.27:012][  0]SourceControl: Source control is disabled
+[2022.01.29-13.59.27:018][  0]SourceControl: Source control is disabled
+[2022.01.29-13.59.27:037][  0]SourceControl: Source control is disabled
+[2022.01.29-13.59.27:049][  0]LogUProjectInfo: Found projects:
+[2022.01.29-13.59.27:543][  0]LogOpenImageDenoise: OIDN starting up
+[2022.01.29-13.59.27:611][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.01.29-13.59.27:659][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.29-13.59.27:659][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.29-13.59.27:959][  0]LogCollectionManager: Loaded 0 collections in 0.002420 seconds
+[2022.01.29-13.59.28:010][  0]LogFileCache: Scanning file cache for directory 'D:/MetaverseDevelope/Galaxy/Saved/Collections/' took 0.00s
+[2022.01.29-13.59.28:010][  0]LogFileCache: Scanning file cache for directory 'D:/MetaverseDevelope/Galaxy/Content/Developers/USER/Collections/' took 0.00s
+[2022.01.29-13.59.28:010][  0]LogFileCache: Scanning file cache for directory 'D:/MetaverseDevelope/Galaxy/Content/Collections/' took 0.00s
+[2022.01.29-13.59.28:010][  0]LogOcInput: OculusInput pre-init called
+[2022.01.29-13.59.29:017][  0]LogEngine: Initializing Engine...
+[2022.01.29-13.59.29:060][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.01.29-13.59.29:061][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.29-13.59.29:061][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.01.29-13.59.29:063][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.01.29-13.59.29:350][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.01.29-13.59.29:373][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.01.29-13.59.29:374][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.01.29-13.59.29:384][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.01.29-13.59.29:387][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.01.29-13.59.29:388][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.01.29-13.59.29:388][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.01.29-13.59.29:388][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.29-13.59.29:388][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.29-13.59.29:388][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.29-13.59.29:388][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.29-13.59.29:388][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.29-13.59.29:388][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.29-13.59.29:388][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.29-13.59.29:388][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.29-13.59.29:389][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.29-13.59.29:389][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.29-13.59.29:389][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.29-13.59.29:389][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.29-13.59.29:420][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.29-13.59.29:420][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.01.29-13.59.29:564][  0]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2022.01.29-13.59.29:569][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.29-13.59.29:579][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.29-13.59.29:580][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.29-13.59.29:581][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.29-13.59.29:581][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.29-13.59.29:581][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.29-13.59.29:591][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.29-13.59.29:591][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.29-13.59.29:591][  0]LogInit: FAudioDevice initialized.
+[2022.01.29-13.59.29:592][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.01.29-13.59.29:592][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.01.29-13.59.29:870][  0]LogDerivedDataCache: Saved boot cache 0.28s 99MB C:/Users/USER/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.29-13.59.29:871][  0]LogInit: Texture streaming: Enabled
+[2022.01.29-13.59.29:907][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.01.29-13.59.29:919][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.01.29-13.59.29:920][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.01.29-13.59.29:935][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.01.29-13.59.29:967][  0]LogInit: Transaction tracking system initialized
+[2022.01.29-13.59.30:013][  0]BlueprintLog: New page: Editor Load
+[2022.01.29-13.59.30:185][  0]LocalizationService: Localization service is disabled
+[2022.01.29-13.59.30:239][  0]TimingProfiler: Initialize
+[2022.01.29-13.59.30:239][  0]TimingProfiler: OnSessionChanged
+[2022.01.29-13.59.30:239][  0]LoadingProfiler: Initialize
+[2022.01.29-13.59.30:239][  0]LoadingProfiler: OnSessionChanged
+[2022.01.29-13.59.30:239][  0]NetworkingProfiler: Initialize
+[2022.01.29-13.59.30:239][  0]NetworkingProfiler: OnSessionChanged
+[2022.01.29-13.59.30:239][  0]MemoryProfiler: Initialize
+[2022.01.29-13.59.30:239][  0]MemoryProfiler: OnSessionChanged
+[2022.01.29-13.59.30:746][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.01.29-13.59.30:746][  0]LogCook: Display: Mobile HDR setting 1
+[2022.01.29-13.59.31:110][  0]LogFileCache: Scanning file cache for directory 'D:/MetaverseDevelope/Galaxy/Content/' took 0.02s
+[2022.01.29-13.59.32:589][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.01.29-13.59.32:608][  0]SourceControl: Source control is disabled
+[2022.01.29-13.59.32:608][  0]LogUnrealEdMisc: Loading editor; pre map load, took 19.956
+[2022.01.29-13.59.32:618][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.01.29-13.59.32:619][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.29-13.59.32:619][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.32:619][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.29-13.59.32:637][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.01.29-13.59.32:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.01.29-13.59.32:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.01.29-13.59.32:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.01.29-13.59.32:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.01.29-13.59.32:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.01.29-13.59.32:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.01.29-13.59.32:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.01.29-13.59.32:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.01.29-13.59.32:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.01.29-13.59.32:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.01.29-13.59.32:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.01.29-13.59.32:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.01.29-13.59.32:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Collapse02.uasset"
+[2022.01.29-13.59.32:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.01.29-13.59.32:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.01.29-13.59.32:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.01.29-13.59.32:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.01.29-13.59.32:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Fire01.uasset"
+[2022.01.29-13.59.32:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2022.01.29-13.59.32:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.01.29-13.59.32:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.01.29-13.59.32:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Light01.uasset"
+[2022.01.29-13.59.32:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.01.29-13.59.32:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Light02.uasset"
+[2022.01.29-13.59.32:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.01.29-13.59.32:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.01.29-13.59.32:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.01.29-13.59.32:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2022.01.29-13.59.32:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.01.29-13.59.32:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.01.29-13.59.32:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.01.29-13.59.32:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.01.29-13.59.32:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.01.29-13.59.32:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Steam01.uasset"
+[2022.01.29-13.59.32:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2022.01.29-13.59.32:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.01.29-13.59.32:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.01.29-13.59.32:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.01.29-13.59.32:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.01.29-13.59.32:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.01.29-13.59.32:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.01.29-13.59.32:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.01.29-13.59.32:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.01.29-13.59.32:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.01.29-13.59.32:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.01.29-13.59.32:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2022.01.29-13.59.32:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.01.29-13.59.32:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.01.29-13.59.32:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.01.29-13.59.32:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.01.29-13.59.32:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2022.01.29-13.59.33:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2022.01.29-13.59.33:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.01.29-13.59.33:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.01.29-13.59.33:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.01.29-13.59.33:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.01.29-13.59.33:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Maps/StarterMap.umap"
+[2022.01.29-13.59.33:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.01.29-13.59.33:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.01.29-13.59.33:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.01.29-13.59.33:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.01.29-13.59.33:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.01.29-13.59.33:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.01.29-13.59.33:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.01.29-13.59.33:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.01.29-13.59.33:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.01.29-13.59.33:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.01.29-13.59.33:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.01.29-13.59.33:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.01.29-13.59.33:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.01.29-13.59.33:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2022.01.29-13.59.33:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.01.29-13.59.33:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2022.01.29-13.59.33:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.01.29-13.59.33:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2022.01.29-13.59.33:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.01.29-13.59.33:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.01.29-13.59.33:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.01.29-13.59.33:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.01.29-13.59.33:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.01.29-13.59.33:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.01.29-13.59.33:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.01.29-13.59.33:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.01.29-13.59.33:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.01.29-13.59.33:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.01.29-13.59.33:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.01.29-13.59.33:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2022.01.29-13.59.33:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.01.29-13.59.33:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.01.29-13.59.33:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.01.29-13.59.33:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.01.29-13.59.33:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.01.29-13.59.33:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.01.29-13.59.33:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.01.29-13.59.33:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2022.01.29-13.59.33:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.01.29-13.59.33:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2022.01.29-13.59.33:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.01.29-13.59.33:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.01.29-13.59.33:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2022.01.29-13.59.33:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.01.29-13.59.33:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.01.29-13.59.33:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Particles/P_Explosion.uasset"
+[2022.01.29-13.59.33:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.01.29-13.59.33:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.01.29-13.59.33:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.01.29-13.59.33:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2022.01.29-13.59.33:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2022.01.29-13.59.33:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.01.29-13.59.33:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.01.29-13.59.33:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.01.29-13.59.33:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.01.29-13.59.33:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2022.01.29-13.59.33:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.01.29-13.59.33:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.01.29-13.59.33:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.01.29-13.59.33:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2022.01.29-13.59.33:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.01.29-13.59.33:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/SM_Bush.uasset"
+[2022.01.29-13.59.33:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.01.29-13.59.33:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2022.01.29-13.59.33:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.01.29-13.59.33:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/SM_Door.uasset"
+[2022.01.29-13.59.33:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.01.29-13.59.33:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.01.29-13.59.33:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2022.01.29-13.59.33:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.01.29-13.59.33:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2022.01.29-13.59.33:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.01.29-13.59.33:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.01.29-13.59.33:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/SM_Rock.uasset"
+[2022.01.29-13.59.33:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.01.29-13.59.33:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.01.29-13.59.33:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.01.29-13.59.33:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.01.29-13.59.33:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.01.29-13.59.33:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.01.29-13.59.33:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.01.29-13.59.33:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.01.29-13.59.33:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2022.01.29-13.59.33:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.01.29-13.59.33:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2022.01.29-13.59.33:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2022.01.29-13.59.33:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.01.29-13.59.33:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.01.29-13.59.33:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2022.01.29-13.59.33:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.01.29-13.59.33:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.01.29-13.59.33:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.01.29-13.59.33:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.01.29-13.59.33:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.01.29-13.59.33:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.01.29-13.59.33:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.01.29-13.59.33:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.01.29-13.59.33:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.01.29-13.59.33:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2022.01.29-13.59.33:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.01.29-13.59.33:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2022.01.29-13.59.33:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.01.29-13.59.33:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2022.01.29-13.59.33:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.01.29-13.59.33:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2022.01.29-13.59.33:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.01.29-13.59.33:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.01.29-13.59.33:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.01.29-13.59.33:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.01.29-13.59.33:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.01.29-13.59.33:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2022.01.29-13.59.33:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.01.29-13.59.33:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.01.29-13.59.33:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.01.29-13.59.33:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2022.01.29-13.59.33:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.01.29-13.59.33:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.01.29-13.59.33:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2022.01.29-13.59.33:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.01.29-13.59.33:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.01.29-13.59.33:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.01.29-13.59.33:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.01.29-13.59.34:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.01.29-13.59.34:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.01.29-13.59.34:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.01.29-13.59.34:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.01.29-13.59.34:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.01.29-13.59.34:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.01.29-13.59.34:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2022.01.29-13.59.34:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.01.29-13.59.34:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.01.29-13.59.34:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.01.29-13.59.34:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.01.29-13.59.34:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2022.01.29-13.59.34:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.01.29-13.59.34:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.01.29-13.59.34:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2022.01.29-13.59.34:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.01.29-13.59.34:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.01.29-13.59.34:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.01.29-13.59.34:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.01.29-13.59.34:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.01.29-13.59.34:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2022.01.29-13.59.34:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.01.29-13.59.34:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.01.29-13.59.34:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.01.29-13.59.34:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2022.01.29-13.59.34:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.01.29-13.59.34:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2022.01.29-13.59.34:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.01.29-13.59.34:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.01.29-13.59.34:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2022.01.29-13.59.34:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.01.29-13.59.34:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.01.29-13.59.34:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.01.29-13.59.34:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.01.29-13.59.34:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2022.01.29-13.59.34:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.01.29-13.59.34:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.01.29-13.59.34:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.01.29-13.59.34:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.01.29-13.59.34:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.01.29-13.59.34:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.01.29-13.59.34:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.01.29-13.59.34:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2022.01.29-13.59.34:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.01.29-13.59.34:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.01.29-13.59.34:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.01.29-13.59.34:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.01.29-13.59.35:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.01.29-13.59.35:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.01.29-13.59.35:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.01.29-13.59.36:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.01.29-13.59.36:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2022.01.29-13.59.36:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.01.29-13.59.36:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.01.29-13.59.36:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.01.29-13.59.36:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.01.29-13.59.36:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.01.29-13.59.36:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.01.29-13.59.36:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.01.29-13.59.36:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.01.29-13.59.36:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2022.01.29-13.59.36:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.01.29-13.59.36:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.01.29-13.59.36:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.01.29-13.59.36:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.01.29-13.59.36:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.01.29-13.59.36:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.01.29-13.59.36:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.01.29-13.59.36:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.01.29-13.59.36:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.01.29-13.59.36:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.01.29-13.59.36:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2022.01.29-13.59.36:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.01.29-13.59.36:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.01.29-13.59.36:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.01.29-13.59.36:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2022.01.29-13.59.36:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.01.29-13.59.36:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2022.01.29-13.59.36:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.01.29-13.59.36:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2022.01.29-13.59.36:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.01.29-13.59.36:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Water_N.uasset"
+[2022.01.29-13.59.36:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.01.29-13.59.36:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.01.29-13.59.36:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.01.29-13.59.36:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.01.29-13.59.36:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.01.29-13.59.36:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.01.29-13.59.36:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.01.29-13.59.36:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.01.29-13.59.36:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2022.01.29-13.59.36:846][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2022.01.29-13.59.37:071][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2022.01.29-13.59.37:095][  0]LogSavePackage: Moving '../../../../../MetaverseDevelope/Galaxy/Saved/Floor_400x40067BE624B415429E87A09F9B3B971D9C6.tmp' to '../../../../../MetaverseDevelope/Galaxy/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2022.01.29-13.59.37:101][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2022.01.29-13.59.37:102][  0]Cmd: MAP LOAD FILE="../../../../../MetaverseDevelope/Galaxy/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.29-13.59.37:103][  0]LightingResults: New page: Lighting Build
+[2022.01.29-13.59.37:107][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-13.59.37:107][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-13.59.37:107][  0]MapCheck: New page: Map Check
+[2022.01.29-13.59.37:107][  0]LightingResults: New page: Lighting Build
+[2022.01.29-13.59.37:131][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.29-13.59.37:159][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.01.29-13.59.37:315][  0]LogTexture: Display: Building textures: DeprecatedTextureD5B55AC7496CD3FBF6154CA3715BB71F (BGRA8, 128X128)
+[2022.01.29-13.59.37:326][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2022.01.29-13.59.37:329][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.29-13.59.37:375][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.29-13.59.37:392][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.01.29-13.59.37:394][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.29-13.59.37:394][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.165ms to complete.
+[2022.01.29-13.59.37:394][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.292
+[2022.01.29-13.59.37:398][  0]LogUnrealEdMisc: Total Editor Startup Time, took 24.747
+[2022.01.29-13.59.37:499][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (微軟注音).
+[2022.01.29-13.59.37:662][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-13.59.37:676][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-13.59.37:687][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-13.59.37:696][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-13.59.37:762][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0170 seconds. Added 3826 classes and 930 folders.
+[2022.01.29-13.59.37:776][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.01.29-13.59.37:781][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.29-13.59.37:781][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:781][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.29-13.59.37:781][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:781][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.01.29-13.59.37:781][  0]LogPakFile: OnPakFileMounted2Time == 0.000116
+[2022.01.29-13.59.37:784][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.29-13.59.37:784][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:784][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.29-13.59.37:784][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:784][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.01.29-13.59.37:784][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2022.01.29-13.59.37:789][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.01.29-13.59.37:789][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:789][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.01.29-13.59.37:789][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:789][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.01.29-13.59.37:789][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2022.01.29-13.59.37:792][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.29-13.59.37:792][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:792][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.29-13.59.37:792][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:792][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.01.29-13.59.37:792][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2022.01.29-13.59.37:794][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.29-13.59.37:794][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:794][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.29-13.59.37:794][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:794][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.01.29-13.59.37:794][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2022.01.29-13.59.37:797][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.29-13.59.37:797][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:797][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.29-13.59.37:797][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:797][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.01.29-13.59.37:797][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2022.01.29-13.59.37:801][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.29-13.59.37:801][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:801][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.29-13.59.37:801][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:801][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.01.29-13.59.37:801][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2022.01.29-13.59.37:804][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.29-13.59.37:804][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:804][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.29-13.59.37:804][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:805][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.01.29-13.59.37:805][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2022.01.29-13.59.37:866][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.29-13.59.37:866][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:866][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.29-13.59.37:866][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:866][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.01.29-13.59.37:866][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2022.01.29-13.59.37:872][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.29-13.59.37:872][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:872][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.29-13.59.37:872][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:872][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.01.29-13.59.37:872][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2022.01.29-13.59.37:875][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.29-13.59.37:875][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:875][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.29-13.59.37:875][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:875][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.01.29-13.59.37:875][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2022.01.29-13.59.37:878][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.29-13.59.37:878][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:878][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.29-13.59.37:878][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:878][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.01.29-13.59.37:878][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2022.01.29-13.59.37:880][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.29-13.59.37:880][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:880][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.29-13.59.37:881][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:881][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.01.29-13.59.37:881][  0]LogPakFile: OnPakFileMounted2Time == 0.000228
+[2022.01.29-13.59.37:884][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.29-13.59.37:884][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:884][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.29-13.59.37:884][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:884][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.01.29-13.59.37:884][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2022.01.29-13.59.37:887][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.29-13.59.37:887][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:887][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.29-13.59.37:887][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:887][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.01.29-13.59.37:887][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.01.29-13.59.37:890][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.29-13.59.37:890][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:890][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.29-13.59.37:890][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:890][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.01.29-13.59.37:890][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2022.01.29-13.59.37:893][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.29-13.59.37:893][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:893][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.29-13.59.37:893][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:893][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.01.29-13.59.37:893][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.01.29-13.59.37:896][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.29-13.59.37:896][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:896][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.29-13.59.37:896][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:896][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.01.29-13.59.37:896][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2022.01.29-13.59.37:899][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.29-13.59.37:899][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:899][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.29-13.59.37:899][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:899][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.01.29-13.59.37:899][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2022.01.29-13.59.37:901][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.29-13.59.37:901][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:901][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.29-13.59.37:901][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:901][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.01.29-13.59.37:901][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.01.29-13.59.37:904][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.29-13.59.37:904][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:904][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.29-13.59.37:904][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:904][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.01.29-13.59.37:904][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2022.01.29-13.59.37:907][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.29-13.59.37:907][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:907][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.29-13.59.37:907][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:907][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.01.29-13.59.37:907][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2022.01.29-13.59.37:910][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.01.29-13.59.37:910][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:910][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.01.29-13.59.37:910][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:910][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.01.29-13.59.37:910][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2022.01.29-13.59.37:913][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.29-13.59.37:913][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:913][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.29-13.59.37:913][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:913][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.01.29-13.59.37:913][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2022.01.29-13.59.37:916][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.29-13.59.37:916][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:916][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.29-13.59.37:916][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:916][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.01.29-13.59.37:916][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2022.01.29-13.59.37:920][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.29-13.59.37:920][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-13.59.37:920][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.29-13.59.37:920][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-13.59.37:920][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.01.29-13.59.37:920][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2022.01.29-13.59.38:128][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.01.29-13.59.38:211][  0]LogSlate: Took 0.005899 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.01.29-13.59.38:216][  0]LogSlate: Took 0.002352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.01.29-13.59.38:220][  0]LogSlate: Took 0.001876 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.01.29-13.59.38:362][  0]LogRenderer: Reallocating scene render targets to support 1212x432 Format 10 NumSamples 1 (Frame:1).
+[2022.01.29-13.59.38:463][  0]LogSlate: Took 0.001757 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.29-13.59.38:585][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.01.29-13.59.38:585][  0]LogLoad: (Engine Initialization) Total time: 25.93 seconds
+[2022.01.29-13.59.38:585][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.01.29-13.59.38:615][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2022.01.29-13.59.38:615][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.01.29-13.59.38:661][  0]LogAssetRegistry: Asset discovery search completed in 17.8754 seconds
+[2022.01.29-13.59.38:677][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2022.01.29-13.59.38:851][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.01.29-14.01.15:790][401]LogSlate: Window 'Source Control Login' being destroyed

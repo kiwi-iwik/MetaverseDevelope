@@ -1,0 +1,2 @@
+D:\MetaverseDevelope\Galaxy\Intermediate\Build\Win64\UE4Editor\Development\Galaxy\Definitions.Galaxy.h
+D:\MetaverseDevelope\Galaxy\Source\Galaxy\Galaxy.h

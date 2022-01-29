@@ -1,0 +1,5 @@
+D:\MetaverseDevelope\Galaxy\Intermediate\Build\Win64\UE4Editor\Development\Galaxy\Definitions.Galaxy.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\MetaverseDevelope\Galaxy\Source\Galaxy/GalaxyProjectile.h
+D:\MetaverseDevelope\Galaxy\Intermediate\Build\Win64\UE4Editor\Inc\Galaxy\GalaxyProjectile.generated.h
